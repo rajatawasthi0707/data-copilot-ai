@@ -1,0 +1,13 @@
+google-cloud-aiplatform
+google-cloud-bigquery
+google-genai
+vertexai
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+streamlit
+python-dotenv
+pyarrow
+db-dtypes
